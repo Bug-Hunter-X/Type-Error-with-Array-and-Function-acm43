@@ -1,0 +1,1 @@
+This repository contains a simple TypeScript example demonstrating a type error that occurs when passing an array to a function that expects a string. The solution demonstrates how to correctly handle the type mismatch by iterating over the array and calling the function for each element.
